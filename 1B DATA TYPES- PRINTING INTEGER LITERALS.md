@@ -10,9 +10,8 @@ To write a Python program to print the following integer literals: 123, 456, 789
 4. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
+```# Reg.No-212223060274
+# Name-Srivarshini.P
 # Write your code here
 
 num1 = 123
@@ -25,5 +24,7 @@ print(num3)
 
 ```
 ## OUTPUT
+<img width="987" height="323" alt="image" src="https://github.com/user-attachments/assets/a829f9be-c803-430f-be1d-c1652c177288" />
 
 ## RESULT
+The program was executed successfully. It printed the integer literals 123, 456, and 789 as expected.
